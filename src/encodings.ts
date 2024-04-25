@@ -53,3 +53,19 @@ export const encodings: Encoding[] = [
     },
   },
 ]
+
+// (@__@)   AAAA!! Why do you came to here? Do you inadequate?
+// ( o_o)   I'm think you came to look on the Great ShitCode
+//          of SeryiBaran.
+// (o_o)    Anyway, i'm recommend you run out from here,
+//          because you can seen enough of the Great ShitCode...
+// (._.)    ...and die.
+// (-_-)    Well... good luck. Bye.
+// (XD)     Oh, forget to say - SeryiBaran is fucking stupid idiot!
+// (._.)    W-Wait... You too hear steps?
+// (>_<)    But this is not a SeryiBaran... Right?
+// (O_O)    Please, say what right!
+// (0O0 )   AAAAAAAAAA!!!! DON'T KILL ME PLEASE!!!! I'M DON'T WANT
+//          TO DIE!!!!! NOOOOOOOOOO!!!!
+//          PLEEAASEE, DON'T KILL!!!!!!! NOOO!!! NOOOO!!! AAAAA!!!
+//          AAAAHH... AA... a... oh...

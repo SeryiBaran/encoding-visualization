@@ -6,7 +6,7 @@
 
 Visualization of the encodings in Terminal.
 
-At this moment supports ASCii, UTF-8 and KOI8-R. If you need additional encodings (why o_O), you can add they to `./src/encodings.ts` file.
+At this moment supports ASCii, UTF-8 and KOI8-R. If you need additional encodings, you can add they to `./src/encodings.ts` file.
 
 ## License
 
